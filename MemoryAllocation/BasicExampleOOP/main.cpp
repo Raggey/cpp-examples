@@ -44,6 +44,6 @@ int main(){
 
   Test s;  // Calls the constructor
   s.Display();
-  
+
   return 0; // Object is now out of scope and the descructor is called
 }
