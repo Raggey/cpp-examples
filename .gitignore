@@ -3,3 +3,7 @@
 *.pdb
 *.obj
 *.txt
+*.hex
+*.elf
+*.json
+*.out
